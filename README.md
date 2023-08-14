@@ -11,6 +11,11 @@ Continued technical education has allowed me to stay ahead of the curve and deli
   </a>
 </p>
 
+## ⚡ Visitor Count
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 ## ⚡ Status
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
