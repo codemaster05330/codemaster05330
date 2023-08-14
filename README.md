@@ -17,5 +17,5 @@ Continued technical education has allowed me to stay ahead of the curve and deli
 </p>
 
 ## ⚡ Status
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codemaster05330&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster05330&layout=compact&theme=buefy&hide_border=true" /></a>
