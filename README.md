@@ -10,14 +10,6 @@
 Building state-of-the-art, easy to use, user friendly web sites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.
 Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
 
-## ⚡ How to Reach Me
-
-<p align='left'>
- <a href="mailto:thomasj0830@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> 
- </a>
-</p>
-
 ## ⚡ Technologies
 
 <table align="center">
