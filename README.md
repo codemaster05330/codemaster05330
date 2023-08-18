@@ -43,8 +43,8 @@ Continued technical education has allowed me to stay ahead of the curve and deli
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <br>WordPress
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
