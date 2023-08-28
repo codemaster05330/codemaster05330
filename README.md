@@ -5,7 +5,7 @@
 </p>
 <h2 align="center">
  <abc>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="center" style="width: 100%" />
  </abc>
 </h2> 
 <h3 align="left">Hi, I am a passionate self-taught full stack web developer and a freelance software engineer. With 12 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.
