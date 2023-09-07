@@ -142,12 +142,6 @@ Continued technical education has allowed me to stay ahead of the curve and deli
   </tr>
 </table>
 
-
-## ⚡ Visitor Count
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 ## ⚡ Status
 
 <div align='center' width='100%'>
