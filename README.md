@@ -1,10 +1,10 @@
 <h1 align="left" id="macropower-title">:wave: Here is a Senior Full Stack Developer.</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20web%20and%20app%20developer;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20web%20and%20app%20developer;9%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 <h4>
-Hi, I am a passionate full stack web developer and a freelance software engineer. With 12 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.
+Hi, I am a passionate full stack web developer and a freelance software engineer. With 9 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.
 Building state-of-the-art, easy to use, user friendly web sites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.
 Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.
 
