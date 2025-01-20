@@ -107,7 +107,7 @@ Continued technical education has allowed me to stay ahead of the curve and deli
     <img src="https://github-profile-trophy.vercel.app/?username=codemaster05330&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@CryptoNinja's trophy stats"/>
   </a>
 </div>
-
+<!--
 ## ⚡ Contribution
-
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=codemaster05330&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+-->
